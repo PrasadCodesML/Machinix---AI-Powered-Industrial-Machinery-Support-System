@@ -1,7 +1,7 @@
 # Machinix - AI Powered Industrial Machinery Support System
 This Github Repo contains flow diagrams of product, and notebooks as well
 
-# Youtube Link of Project
+# Project Demo - Youtube
 https://youtu.be/9gG7UjHwGqw?si=PqiL78-77XP3Vlr- 
 
 # Technologies used
